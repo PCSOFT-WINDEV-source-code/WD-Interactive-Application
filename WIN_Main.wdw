@@ -1,0 +1,250 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Main
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Main
+ identifier : 0x26d02c6802cc48ce
+ internal_properties : CAAAAAgAAABzA7on8598iNRBeqAksDA58f8F9km6B9l3W9qVgAofVTjGmNOsERCNGolRlT0PYatrmKmXToadFU8TPrVUZqhfR1lYw7qelq8vZWb4s7RJVBEiR2IzCrk/mytaWregRnywfKZ32GV2JGONltFTYAXRaR15QchZBOwjljr+G5HwKc/f5BLqllEA5P5B+53Yu88xSbmZU9tZPKoeAKLMGOljxi180qKGaFtzgHXi7v3sDf9hgkbFpU76qMISp8fT9C/dsvPXAnbXUGe6+X2WmYfapTjF59I8YAG73iOY0Trfy/+OWwwKjIk0FLGUbdjz6yRPPHk7QCR45+mr6stKszR6fF2bakUTdDs1wsAmCJSqLnYRkoWFFx5kJA1qzNUqW4SBpYWxtVohJWsexrozqt3zsJJLFrBSAE8qE+GO2xHuMTPv99ZVJZFJGhZcPDNu/3pQomRUJddzudIDSJqo2z360ijqiwKSJac6TN5BYrUE3jXO0iS99OmcWw9OcxCut3ulmooj/Pk3l+R6BDuqTXpCskvO1rPC9VxMpJBBv6uC146psi+6MLm0LzMg87KdBr4NMGi3r3xv/dEZgzXNoEY8rv9eEKB+FpS9NTRjCoabXbnaPDE0wfV9k5//Drqkpx4mbvSWz9h2tJas6o/NkDPGXjD+Y2ZC2LanewvKUv9EeA/OqFBmzGrgX+8UtIWcigQmNWgUxJw89tqNSzq4Sw4UwM9a+BeGS/ErLVcM4Ilj7B6MOd19Fc/qmdog2QJ+/2VRdKVoWXfV/vPrgRLin7fYrJF2lifeUl5tZQQJXAfBi1+A4E+8YbsU9ORaXriuOJa5VOg=
+ properties :
+  width : 900
+  height : 700
+  widthClient : 898
+  heightClient : 668
+ controls :
+  -
+    name : IWC_Edit
+    identifier : 0x26d02c6802cd48ce
+    internal_properties : CAAAAAgAAACbk+WyJ07mAiJFLEnJwUxOtjVXD5fR5EcSDwdR54Inj3b9CNd1sf1YgXlIGzWq9ZASQ3wFGGfc9Od6C5sWmLT99Ll2qkVGPw/leiNAZDFqXjNxvPVGzRACBx6cm3/azSB1odF9sYpGRp4DsoLRxtSZMQTh5r9UAqoQT6oQpxMxS2HhZxhYlPHvOOB7wSZrSdtq0EKBAZtwsuRrpyEUOeL10LwVXp8UyS1aGwsqCMekWwvlLVo1/iC9ywTbafqbtMnvl74wEPiK3OtFvvbf1G1Xitotto5UDG1g15EJl8BppaaxABIt6CAYcu42aLsC/zKtK59aZnzZDGHFFo/kJt2rVvLWjuEQaeaK76uo/8GZYJgXG+WFYPHYZBbSYGApaUk6cHkkc+g2YLciTqufjz3A3JmZ9em2VM4Y9RfqFxj4ceUVixTefDJJt8vm+euUPNRKo0TFZ3DjJvXZ/q25gGJ66Oy/C3w+3NcFbBFFP7G5PjoOsW36R+8OM+vY8X1wzHm5FUxuoLkbofWqyTScjjy/HfHvAfHylExcecsogzrrzsM+C8UlcZyFDvTlas8Ltg0TcfnwNA==
+    properties :
+     x : 24
+     y : 65
+     width : 852
+     height : 581
+    controls : []
+    type : 31
+    code_elements :
+     type_code : 73
+     p_codes :
+      -
+        type : 33
+        enabled : false
+  -
+    name : STC_My_connected_house
+    identifier : 0x26d02c6802ce48ce
+    internal_properties : CAAAAAgAAAB3+94TGb8fnoV4JdosCKcjCbHYF8SttRP+hEM6qjViWyt8tyr178gCW9p5Cu1XB4Ma95YpjEUdR2W7riLLomWvCP1a5mTrZMBpXn5NGLLuU3iVyX3LI9cPh/sDOum4KPW98lnrqTeNDgzL61x0HvYsUZ1VaeGg0DErKbPFlVJzoOYxtSJY2G2qufTqG5DZUJ5o0qMgYe9KXrBLMJzCKd09C1NX5hCGWbOtqjii7hfHKI1p1uoM8OBsnv5UYJohFuQ0syRUsQjRn1M+lKTp3eqrhrD4SjHzMBkwSlOxF4YareKtjwhA9I2eRokFnXbRG1/AVSZzR12jiyy55j+iss4SpWKyJp/KA3g83DBVVaPd5gxMbE5ONzjGuQpUcBdAxfN9RhfZeDtrQ0shylL9w21+Z+dNm5GDmfylLhLG5ocsBsZAZIDo/CaSil+/x8+DaA08FDY4CfevVC+K/Y9tyGDz
+    properties :
+     x : 16
+     y : 17
+     width : 222
+     height : 24
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_Edit
+    identifier : 0x26d02c6802cf48ce
+    internal_properties : CAAAAAgAAABGrYP29i7vdkd1jRigp4wQckZkwVheRg0mRWS3btuPMe+xcYpak0ctN5BXxN3ocfYLwrOAwMApJysJ90m1jz48uUL53Trv3GB8lgwQYHD8qyex3PI5iT6CovSlSOmjmL7iN910HSElr0dwjBvZV2gol4+Ph4lD4BV8WXniFokfvLn1u0Jz78KVlBb5viYGHDeTrYEyJww8749IBK3H39QGlf5+W8j2QxU7HAvAPlMWygi040Jl9+tx7xVtot2FXPrZZqjRBguh15mR6Ei1MTAlbNp0aEq1gUMmbxpV6QFOc4UtnbVd7FOkLvqmpSm9b3ewZumg0Up4NjUw5MucoH39OjsGFz8MMKSD134bOjoe+RmGCX3ch/xWwf5dkVqw+96vImtLqGkgjSDtfPxIU/hkAFQ6Phns7JX/79NynP/ARcWfv1GRd0A4iNWqmbe2q4H329FmMb0e4gJFlFcZ6H/5GmDPo1yxC5E7i0XfKsuw9uyZ4KbZsusLDIs0MjXbtAD57sUhOOBBkt9x/e0QlFeB7BuAX9PibsnEldExoQH/DWVEzWvrSbEVD67F7zsALgGkRKMwVJe92RehZi20QabMYIZXhB1m4Xi7KwCLeufvDttANDKG3rF/jufT1398LbSXpeyv9O9X8X4lfYw/XW6KJpuS/sK+ijSrZXdBVotpUvdKRfNpffJE1B7V+1kjRB9kIYCLaVkFeVD/04oEZb8EIiZ4+Ge8Ff1TI8kg3VL0EZerpU0gjRKs5YmtrpomFgu/F9dFKwDh1Sd2EHDUA2XJlBQ9RQHSU8+VAjuCFsWqFV6GzdNlA2ROjxLicNV/nNgjuqKPeCrGUjSjXk8hSLjrp5ftuTTTEqv4mM+436JK8rINpjLEuNE2tHMGeL1y2orPYjiHc5juxPXO82DT8A==
+    properties :
+     x : 803
+     y : 17
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         IF WinEdActive(IWC_Edit) THEN
+         	// Save the modification performed
+         	WinEdSave(IWC_Edit,gsModificationsFile)
+         	
+         	// Disable the edit
+         	WinEdActive(IWC_Edit,False)
+         	
+         	// Interface
+         	MySelf..Caption = "Edit"
+         	GR_Editing..Visible = False
+         ELSE
+         	// Enable the edit
+         	WinEdActive(IWC_Edit,True)
+         	
+         	// Interface
+         	MySelf..Caption = "End"
+         	GR_Editing..Visible = True
+         END
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Restore
+    identifier : 0x26d02c6802d048ce
+    internal_properties : CAAAAAgAAACYIr8yqB3LBxw1DF+Nvd0rmIHC36+F4RSBg4PAVptuuicQ/jPb4sJE6jH7ivB2v0vf+Wr5wxlC/Ki8+BUO0WCMWn9oid8rR+t6Iyv3CWxIBxyva6HvK2MT5M5sUVxoHzI3L7oloLU7ozrryoSTw9hOCCQvU+31vXOLMvdG/qPgmyGuPDoloo6cDDVSFkRt9sKIcajsdVBvTpHRUcUs7M03ttHmWTrIet3zIURSydes7Q71qNDJJpAO5RUKzkg7MrUtixYZnkZb3nrtVUcHu3bhjsz00yLK2zAMHExGEdRhTlsDVeDiLxxJOC9RR6u7vfSJFEI49A4IuGtEB0dumdkNkSzNjXIc78YHLXuA4vc58FDoZxFekDNTYvgRHx/1nzEV8mh5p3r8y72N2HAjUrVgyqcXAJaoH39KMjQhmdmQVd2v+WIDxvidVUFmStD8SgSW0h4BIYz8JQduKHR3y18wUbtQa1sce+GcDjtRvzHVpvvBePyAgNmQogOGXYcFY9Q6rA89a0WpTmpfWiXDy6U27PDv2wIuu1szEbToWwkr7lkwWAsa1hQO8WmjOXTNYykTYNG6JuwWzWHJGM8UKyYkYJQdBt7gSMCtisEjR4Jdpa6StwAWYdXwVpMqdlAB/aCunZLtrrwh9ZpXHy2IkPA5tAZkQZ6kc0BRsVRGq4mBl3/8sJmYBruA0FA2qn9eZ7SKbPMsiIFQZbB2PtDplc8LWflBmI7x4fus2Flfoit0gEJ2wYtE3XZspJ8VX9qdta5kJnjvJe2UQW2C+tyY7y9tUycSiycfJozVYNUV4MfgxdSyxYj/5K3kcxyFxRLb+sd5p6Cgn7A3VyroudmD7Bx94fCGL66AImkzrShioWWXL+L23phSj5OHF+NuvoxE6Gfn/LbNxCOAMTJB2H4NCl3gmhgr2Wx90gGqPmBNKwhCjlyDiMe+wgE=
+    properties :
+     x : 701
+     y : 17
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         WinEdRedo(IWC_Edit)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Cancel
+    identifier : 0x26d02c6802d148ce
+    internal_properties : CAAAAAgAAACL7kQitFr8AqhDeg1hHVv+vSeZZJMuOV7mmP7IAfj67H53tcBWwgu6Ck2b1K1RMRPwd4CyNGG1MrmPpbX6nINMtwlMIouo/kBpYl4dzgmIsgF4XhQ8UUqE7Y8YggpGvHPMtbCkPbageHln3zHU267x+U0hbC4Sjo763AV0I+u7eRhFoEkbXu54zylrr/NP8a+S7RBRlX1xU4omXmrIGICA3IJTrs60dhDBEJDNKGwhqrclFWnql3CUX8wB77+MwnsAAEnhIm8ModDY+1wZp80EmbGXV4Zyjkf7syAjVkad9hemXo71L4FVYwHFSfdKohIF75ndX92PwkoL949MDqcFpqZpYmVlITXWZE7CN5MPVp5GJ1qR2MDgZupiZnioSLsAsuXrV22c9grwBinjRE+/RDxKmcLxRc/zA8duqpgL3Ykt5Y5VYwD/mMxXPW/V3yQ9tYi55Yt/pPTjx1o79ZQ4kTGZehvyVpImVW1byyaaoWNU2OccGkpPuDjUSwPU+K9II0G+vRmIsdK4mgG5QoITXKnjgjCqJu6tyFLW85i4YeWzdsimZPsTEzorZWbavCihyfs1OODBbJlkCEM2VqeldDGNy0K642WvT79BdwP6BvYjl3tC0zYfuMJwjExCmOecdqQgStp8JgCMe3XOlT9G1u2sLBAgBg9b/pq8u6wk3o/XytrI5EYJ1pMi2mGv0snOQR+zmKN32OhL5C6BxNBsSWjjK1glAvFaRZeV4hBvo8BpH+Cgk+2fbBQ7jTbuGCeOJchMoQ8REAs/lrw+IIY37qTcFGFbhX7lIRhh2sD4RvrNtR06X3lcBlvmjF+Q7RCBMCpxCGGl7QVqYPCb8ymZYKVz9ATUxO+BMngDdrlq9scB1XmSbfyl/F4WyitSjGe9NKWJP+qydvANMPpjJ5yirZR6V/+RjRZkUMQjWsbqIvnFxOZDnup7
+    properties :
+     x : 599
+     y : 17
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         WinEdUndo(IWC_Edit)
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MyWindow()
+      
+      gsModificationsFile is string = fDataDir() + [fSep] + "map.wdmodif"
+      
+      // Load the modifications
+      IF fFileExist(gsModificationsFile) THEN
+      	WinEdLoad(IWC_Edit,gsModificationsFile)
+      END
+      
+      GR_Editing..Visible = False
+   -
+     code : |1+
+      
+      
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+  procedures :
+   -
+     name : RefreshTemperatures
+     internal_properties : CAAAAAgAAAAJoi9uSeE5XMf/mARTAGf+YsOBDKefNqZyPr8xLkf4htViZ5Xg6So96Jyj6XOrRgDVhMqtlk19JVNHXojJm4Ik4vvifgQILAbvE4Jp9zpDEDw8KsWb/Bv4xY5LEDShK1nY2B5aYj98SCTnMinQIA/wi+m91I7938U677kvBp5Na5ii9DWm3Q==
+     procedure_id : 1643862689183910094
+     type_code : 14
+     code : |1+
+      // Summary: Refreshes the temperatures
+      // 
+      // Automatic procedure:
+      // The procedure is automatically run, after the initialization code of the window, with a delay set to 1 second
+      // It will be repeated in loop, with 1 second between each call
+      // Each following call runs the procedure once, without timer
+      // 
+      
+      PROCEDURE RefreshTemperatures()
+      
+      
+      FOR i = 1 _TO_ 4 
+      	// Initializes the generator of random numbers
+      	InitRandom()
+      	
+      	xRandomNumber is numeric
+      	xRandomNumber = Random(190, 260) / 10
+      	
+      	// Rounded
+      	xRandomNumber = Round(xRandomNumber, 1)
+      	
+      	{"IWC_Edit.STC_Temperature_" + i,indControl} = xRandomNumber
+      END
+     type : 458752
+   -
+     name : GetLightStatus
+     internal_properties : CAAAAAgAAACZy2fbAiNvd11YlM688TR37EMlvAhuBIJfJB4yHPNLgPjMDrAoum14qz11E0narvPzDSM1ztMP124fM0I3AH0nzzO3TTg5WEQ5mJZ9WVuMh1RJs/CLC+EAb5NRyJwYYvq8uUux8Ori1O6uAANaUs4vD9r+p3nmygSZzVXMxHjIP8BQnkuG+CsQ+wsYWmIo3IgMCA==
+     procedure_id : 1643862689183975630
+     type_code : 14
+     code : |1-
+      // Summary: Retrieves the status of the lights
+      // 
+      // Automatic procedure:
+      // The procedure is automatically run, after the window initialization code
+      // 
+      
+      PROCEDURE GetLightStatus()
+      
+      // Random data is used in this case but it could come from a database, a webservice, ...
+      IWC_Edit.BTN_Lamp_1..Pushed = True
+      IWC_Edit.BTN_Lamp_2..Pushed = False
+      IWC_Edit.BTN_Lamp_3..Pushed = False
+      IWC_Edit.BTN_Lamp_4..Pushed = True
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1649b0d20013f519
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
